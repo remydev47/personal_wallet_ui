@@ -65,7 +65,7 @@ class _HomePageState extends State<HomePage> {
                     height: myHeight * 0.2,
                     width: myWidth * 0.9,
                     decoration: BoxDecoration(
-                        color: Color(0xff7847fc),
+                        color: Colors.amber,
                         borderRadius: BorderRadius.circular(30)),
                     child: Column(
                       children: [
